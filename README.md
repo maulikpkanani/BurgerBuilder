@@ -1,6 +1,6 @@
 **BurgerBuilder**
 
 - Build Burger
-- Orger Burger
+- Order Burger
 - Sign In
 - Save Ordered Burger
